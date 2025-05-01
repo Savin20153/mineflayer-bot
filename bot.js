@@ -6,7 +6,7 @@ var options = {
     username: "BiosForXeon",
     version: "1.21.4",
     verbose: "falce",
-    auth: 'microsoft',
+    auth: 'offline',
     password: "",
 };
 
